@@ -1,0 +1,2 @@
+# NVimIPython
+IPython for neovim.
