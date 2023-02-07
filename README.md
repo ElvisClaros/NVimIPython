@@ -16,7 +16,7 @@ Plug 'elvisclaros/NVimIPython'
 * `:IPython` to send the current line to the IPython terminal
 
 Gif demo
-![demo](https://github.com/elvisclaros/NVimIPython/gif/demo.gif)
+![demo](https://github.com/ElvisClaros/NVimIPython/blob/main/gif/demo.gif)
 
 ## License
 GNU General Public License v3.0 or later
